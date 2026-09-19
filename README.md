@@ -74,33 +74,43 @@ Let Ri = Rf = 10 KΩ
 
 **LPF:**
   **CIRCUIT DIAGRAM**
+  <img width="1600" height="1080" alt="image" src="https://github.com/user-attachments/assets/4328e126-97ac-4850-b95e-b761fc36c7b2" />
+
 
 
   **MODEL GRAPH:**
+<img width="1315" height="1031" alt="image" src="https://github.com/user-attachments/assets/7921bda7-210a-44d7-90cd-675c01338b5c" />
 
 
   **TABULATION:**
- 
+ <img width="1599" height="1259" alt="image" src="https://github.com/user-attachments/assets/730b8202-b415-4ce0-8e50-01dae8322bbf" />
+
 
 
 
 **HPF:**
   **CIRCUIT DIAGRAM**
+<img width="1282" height="734" alt="image" src="https://github.com/user-attachments/assets/e133ec18-a656-4802-b64a-bb34c9d98b92" />
 
 
   **MODEL GRAPH:**
+<img width="1289" height="607" alt="image" src="https://github.com/user-attachments/assets/418c235d-e4e2-42fc-8465-b7ded2e400e2" />
 
 
   **TABULATION:**
+<img width="1600" height="1227" alt="image" src="https://github.com/user-attachments/assets/f92097e4-20aa-4361-a0e7-31c798b05d23" />
 
   **BPF:**
   **CIRCUIT DIAGRAM**
+<img width="1600" height="969" alt="image" src="https://github.com/user-attachments/assets/70dae2b3-62ff-476b-97e4-e5ba5165ad55" />
 
 
   **MODEL GRAPH:**
+<img width="1600" height="1135" alt="image" src="https://github.com/user-attachments/assets/1fc5a2a6-568c-4180-a63b-2cd0cafec018" />
 
 
   **TABULATION:**
+<img width="1600" height="1050" alt="image" src="https://github.com/user-attachments/assets/f6ed7239-b46e-4383-989c-ede608dafeae" />
 
 **LT-SPICE Tool:PROCEDURE:**
 •	Double click on LT-Spice icon.
@@ -113,6 +123,8 @@ Let Ri = Rf = 10 KΩ
  
   **LT SPICE**
   **CIRCUIT and Waveform**
+  <img width="831" height="1393" alt="image" src="https://github.com/user-attachments/assets/b7b3b9d0-0063-451c-b0a7-86aa91eb662d" />
+
   
 
 **RESULT:**
