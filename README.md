@@ -81,6 +81,9 @@ Let Ri = Rf = 10 KΩ
   **MODEL GRAPH:**
 <img width="1315" height="1031" alt="image" src="https://github.com/user-attachments/assets/7921bda7-210a-44d7-90cd-675c01338b5c" />
 
+<img width="1368" height="1080" alt="WhatsApp Image 2026-10-05 at 12 38 14 PM" src="https://github.com/user-attachments/assets/b73c886a-bd0c-4676-a551-3b2c425be92e" />
+
+
 
   **TABULATION:**
  <img width="1599" height="1259" alt="image" src="https://github.com/user-attachments/assets/730b8202-b415-4ce0-8e50-01dae8322bbf" />
@@ -96,6 +99,8 @@ Let Ri = Rf = 10 KΩ
   **MODEL GRAPH:**
 <img width="1289" height="607" alt="image" src="https://github.com/user-attachments/assets/418c235d-e4e2-42fc-8465-b7ded2e400e2" />
 
+<img width="1321" height="1063" alt="WhatsApp Image 2026-10-05 at 12 37 58 PM" src="https://github.com/user-attachments/assets/1d967663-73e2-469e-8851-5dc606981777" />
+
 
   **TABULATION:**
 <img width="1600" height="1227" alt="image" src="https://github.com/user-attachments/assets/f92097e4-20aa-4361-a0e7-31c798b05d23" />
@@ -107,6 +112,8 @@ Let Ri = Rf = 10 KΩ
 
   **MODEL GRAPH:**
 <img width="1600" height="1135" alt="image" src="https://github.com/user-attachments/assets/1fc5a2a6-568c-4180-a63b-2cd0cafec018" />
+
+<img width="1347" height="1037" alt="WhatsApp Image 2026-10-05 at 12 38 57 PM" src="https://github.com/user-attachments/assets/620c52ac-39b3-4221-914f-d33a7ba5593e" />
 
 
   **TABULATION:**
